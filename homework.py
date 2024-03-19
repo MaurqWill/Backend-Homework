@@ -42,7 +42,7 @@ print(type(variable_d))
 #variable_d = <class 'bool'>
 
 # Grocery Store Math
-grocery_list = input("What would you like?")
+# grocery_list = input("What would you like?")
 #print(user_input)
 bread = "3"
 peanut_butter = "2"
@@ -52,7 +52,7 @@ bread_price = int(bread)
 peanut_butter_price = int(peanut_butter)
 jelly_price = int(jelly)
 pbj_price = bread_price + peanut_butter_price + jelly_price
-print(pbj_price)
+print("your total is", pbj_price)
 
 # Value Swapping
 x = 2

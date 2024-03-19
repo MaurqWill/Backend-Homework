@@ -13,11 +13,16 @@ if mood == "happy":
 else:
     print("I hope your day gets better!")
 
-# # Python Naming Convention Practice
-# pi_value = class = "hljs_number" > 3.14
-# userage = class = "hljs_number" > 25
-# user_location = class = "hljs_string" > "New York"
-# maxlimit = class = "hljs_number" > 1000
+# Python Naming Convention Practice
+# pi_value = <class = "hljs_number" > 3.14
+# userage = <class = "hljs_number" > 25
+# user_location = <class = "hljs_string" > "New York"
+# maxlimit = <class = "hljs_number" > 1000
+
+# pi_value = <span class="hljs-number">3.14 </span>
+# user_age = <span class="hljs-number">25 </span>
+# user_location = <span class="hljs-string">"New York" </span>
+# max_limit = <span class="hljs-number">1000 </span>
 
 # Python Data Types and type() Function
 variable_a = "Hello, World!"
